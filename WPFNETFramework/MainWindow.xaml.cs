@@ -48,7 +48,7 @@ namespace WPFNETFramework
             var datos = (Parametros)(dgDatos.Items[filaSeleccionada]);
 
 
-            MessageBox.Show("Id seleccionado " + datos.id);
+            MessageBox.Show("Id seleccionado " + datos.id); 
         }
     }
 }
